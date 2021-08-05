@@ -5,6 +5,11 @@ Freddy Vega tiene 32 años y nació en Colombia
 Anita Platzi tiene 41 años y nació en Internet
 
 Master 1
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+Experimento 2
+>>>>>>> 4685f1b (Experimento 2)
 
 Mañana nos enfocaremos en su vida laboral
