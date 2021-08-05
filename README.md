@@ -7,4 +7,3 @@ Un blog de ejemplo para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Una serie de buenas prácticas
 * Entornos de trabajo para Git
 * Varios trucos y atajos
-* Creado por el increible Platzi Team
